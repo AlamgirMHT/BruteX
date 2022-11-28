@@ -31,7 +31,7 @@ BruteX is A bruteForce attacking tool
 + ```apt update```
 + ```apt upgrade```
 + ```apt install git -y```
-+ ```git clone https://github.com/MR-ZIHAD/BruteX.git/```
++ ```git clone https://github.com/AlamgirMHT/BruteX.git/```
 + ```cd BruteX```
 + ```chmod +x *```
 + ```bash setup.sh``` or ```./setup.sh```
@@ -44,7 +44,7 @@ BruteX is A bruteForce attacking tool
 ``` python bruteX.py ``` or ``` python3 bruteX.py ```
 ## Single line command:
 ```
-apt update && apt upgrade && apt install git -y && git clone https://github.com/MR-ZIHAD/BruteX.git/ && cd BruteX && chmod +x * && bash setup.sh && unzip bruteX.zip
+apt update && apt upgrade && apt install git -y && git clone https://github.com/AlamgirMHT/BruteX.git/ && cd BruteX && chmod +x * && bash setup.sh && unzip bruteX.zip
 ```
 
 
@@ -79,7 +79,7 @@ apt update && apt upgrade && apt install git -y && git clone https://github.com/
 
 # For Install:
  - rm -rf BruteX
- - git clone https://github.com/MR-ZIHAD/BruteX.git
+ - git clone https://github.com/AlamgirMHT/BruteX.git
  - cd BruteX/
  - python HACKFB.py -t 100006256286582 -w /sdcard/access.txt
 ***
