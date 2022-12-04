@@ -1,6 +1,8 @@
 # BruteX
 BruteX is A bruteForce attacking tool
 
+## Termux
+
 ## Whats New
 + ```Fixed tor error```
 + ```Added update feature```
