@@ -1,7 +1,8 @@
 # BruteX
-BruteX is A bruteForce attacking tool
 
 ## Termux
+
+BruteX is A bruteForce attacking tool
 
 ## Whats New
 + ```Fixed tor error```
