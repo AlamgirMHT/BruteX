@@ -1,4 +1,4 @@
-# BruteX
+# BruteX : STRIKER
 
 ##### Termux
 
